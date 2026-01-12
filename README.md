@@ -147,9 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Have questions or suggestions? We'd love to hear from you!
 
-- **Email**: contact@medconnect.com
+- **Email**: aniketkumarsonu62@gmail.com
 - **GitHub Issues**: [Report a Bug or Request a Feature](https://github.com/CARLOX62/MedConnect/issues)
-- **Discord**: Join our community at [discord.gg/medconnect](https://discord.gg/medconnect)
 
 ---
 
